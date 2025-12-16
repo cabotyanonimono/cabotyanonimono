@@ -30,7 +30,7 @@
 # NOW TRAINING
  
 <img
-  src="https://skillicons.dev/icons?i=python,php,docker,laravel,mysql,github,vscode,react,next,typescript"
+  src="https://skillicons.dev/icons?i="
   alt="Skills"
 />
 <br /><br />
